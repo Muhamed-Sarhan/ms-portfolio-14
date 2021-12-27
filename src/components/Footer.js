@@ -53,7 +53,7 @@ const Footer = () => {
         <a
           target="_blank"
           rel="noreferrer noopener"
-          href="https://ms14.netlify.app/"
+          href="https://ms-portfolio-14.web.app/"
         >
           <img src={website} />
         </a>
