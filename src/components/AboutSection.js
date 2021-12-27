@@ -2,7 +2,7 @@ import React from "react";
 import home1 from "../img/portfolio.png";
 import phone from "../img/phone.svg";
 import pdf from "../img/download.svg";
-import resume from "../img/Muhamed-Sarhan-CV.pdf";
+import resume from "../img/Muhamed-Sarhan-Cv.pdf";
 import {
   About,
   Description,
